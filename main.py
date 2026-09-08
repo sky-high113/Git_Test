@@ -1,3 +1,4 @@
+from sub import sub_print
 
 def func_print():
     # print 0 ~ 9 
@@ -8,3 +9,4 @@ def func_print():
     
     
 func_print()
+sub_print()
